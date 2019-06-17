@@ -23,3 +23,4 @@ Kickstarter is one of the main online crowdfunding platforms in the world. This 
 - usd_goal_real: fundraising goal in USD
 # Project Goal
 The goal is to predict whether a project will be successful or not. It is entirely up to you which features you will use and which model. When it comes to performance metrics you should be able to say when the model is good enough. The purpose of this project is to evaluate how you handle an unknown dataset in a classification task and your ability to deliver the results.
+# File List
