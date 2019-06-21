@@ -26,4 +26,4 @@ The goal is to predict whether a project will be successful or not. It is entire
 # File List
 Instructions.md —— Description and guideline of 'my_prediction' module  
 Experiments.ipynb —— Analysis process of the project and related details   
-Draft.ipynb ——    
+Draft.ipynb —— Module instructions in Jupyter Notebook form   
